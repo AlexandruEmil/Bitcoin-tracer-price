@@ -22,3 +22,7 @@ To use this app, simply run the following command:
 python bitcoin_tracker.py
 
 This will launch the app and display the current Bitcoin price in a window.
+
+License
+
+This app is licensed under the MIT License. See the LICENSE file for more information.
